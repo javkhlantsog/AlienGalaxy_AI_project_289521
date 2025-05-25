@@ -32,7 +32,7 @@ To evaluate clustering quality, we used:
 
 Clustering Evaluation metrics Comparison table:
 
-![][image1]
+images/Clustering evaluation.png
 
 1\. Silhouette Score (–1 to 1, higher is better):
 
