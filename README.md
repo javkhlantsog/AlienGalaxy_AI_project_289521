@@ -61,7 +61,8 @@ It reveals that Cluster 2 stands out with high scores in features like mineral e
 To campare clustering profiling, all three methods highlighted a group with strong resource extraction and exploration features, suggesting planets oriented toward expansion and development. Another cluster consistently exhibited higher social or trade-related features, such as offspring colonies and trade agreements, hinting at planets focused on diplomacy or social growth. However, GMM was unique in introducing a fourth cluster with more balanced characteristics, including moderate levels in energy consumption and colonization timelines. While KMeans and Agglomerative produced similar profiles with sharp separations, GMM’s probabilistic approach offered a more detailed look, showing smaller differences in how planets are grouped.
 
 Civilization Level Distribution by Cluster (Kmeans):  
-![][image3]
+
+images/Civilization level by Kmeans clustering.png
 
 Civilization levels are relatively evenly distributed across clusters, especially for Graduation and Master levels. There’s no strong pattern showing that one cluster is significantly dominated by a specific civilization level (except perhaps slight variations). Basic civilizations are rare, and PhD levels are spread fairly evenly. This suggests that civilization level is not a strong differentiator in how clusters form.
 
