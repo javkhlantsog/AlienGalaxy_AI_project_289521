@@ -54,7 +54,7 @@ To summerize, KMeans is best overall (good structure, tight and well-separated c
 
 Cluster profiling and civilization distribution charts showed how certain groups are defined by advanced exploration, population, or resource development. In terms of cluster profiling, it revealed distinct patterns in how planets are grouped based on environmental and civilization features. For instance, some clusters were characterized by high mineral extraction, energy consumption, and exploration missions, suggesting a focus on resource utilization and expansion. Other clusters exhibited higher social and cultural exchange, hinting at more cooperative or advanced civilizations. These insights help us understand which types of planets attract certain alien species and inform strategies for optimized colonization and peaceful coexistence. For example, when we see KMeans cluster profiling:
 
-![][image2]
+images/Kmeans clustering profiling.png
 
 It reveals that Cluster 2 stands out with high scores in features like mineral extraction, exploration missions, and biological research units, indicating a focus on expansion and resource development. Cluster 1 shows lower levels across most features, suggesting planets that are less resource-intensive or exploratory. Cluster 0 highlights moderate levels in trade agreements and offspring colonies, hinting at socially inclined or diplomatically active civilizations. These patterns reflect how planets with specific characteristics are likely to attract different types of alien species.
 
